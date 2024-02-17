@@ -9,5 +9,5 @@ function fahrenheitTocelsius(fahrenheit){
 
 }
 
-console.log(celsiusToFahrenheit (40));
-console.log(fahrenheitTocelsius(104));
+console.log(celsiusToFahrenheit (37));
+console.log(fahrenheitTocelsius(67.1));
